@@ -1,4 +1,7 @@
-## Hi there 👋
+## MrAle98
+
+Hello 👋! I'm Alessandro, security researcher currently focused on windows kernel and developing offensive security tools.
+
 
 <!--
 **MrAle98/MrAle98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
