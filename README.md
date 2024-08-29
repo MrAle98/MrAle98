@@ -11,7 +11,7 @@ Here some blog posts I've authored:
 Feel free to reach out if you have any questions about reverse engineering, exploit development or other security topics! Always happy to chat.
 
 
-![Stats1](https://github-readme-stats-five-mauve-43.vercel.app/api?username=MrAle98&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Stats1](https://github-readme-stats-five-mauve-43.vercel.app/api?username=MrAle98&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![langs](https://github-readme-stats-five-mauve-43.vercel.app/api/top-langs?username=MrAle98&theme=dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact)
 ![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=MrAle98&theme=dark&hide_border=true)
 
