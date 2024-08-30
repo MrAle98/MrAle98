@@ -14,6 +14,8 @@ Feel free to reach out if you have any questions about reverse engineering, expl
 ![langs](https://github-readme-stats-five-mauve-43.vercel.app/api/top-langs?username=MrAle98&theme=dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10)
 ![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=MrAle98&theme=dark&hide_border=true)
 
+In case you would like to support me.
+
 <div align="center">
 <a href='https://ko-fi.com/mrale98' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
