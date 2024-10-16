@@ -1,9 +1,8 @@
 ## MrAle98
 
 Here some blog posts I've authored:
-* [Customizing Sliver - Part 1](https://security.humanativaspa.it/customizing-sliver-part-1/)
-* [Customizing Sliver - Part 2](https://security.humanativaspa.it/customizing-sliver-part-2/)
-* [Customizing Sliver - Part 3](https://security.humanativaspa.it/customizing-sliver-part-3/)
+* [Customizing Sliver](https://security.humanativaspa.it/tag/sliver/)
+* [Exploiting AMD atdcm64a.sys arbitrary pointer dereference](https://security.humanativaspa.it/tag/atdcm64a/)
 
 ![Stats1](https://github-readme-stats-five-mauve-43.vercel.app/api?username=MrAle98&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![langs](https://github-readme-stats-five-mauve-43.vercel.app/api/top-langs?username=MrAle98&theme=dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10)
