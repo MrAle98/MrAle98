@@ -6,7 +6,6 @@ Here some blog posts I've authored:
 
 ![Stats1](https://github-readme-stats-five-mauve-43.vercel.app/api?username=MrAle98&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 ![langs](https://github-readme-stats-five-mauve-43.vercel.app/api/top-langs?username=MrAle98&theme=dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=10)
-![Stats2](https://github-readme-streak-stats.herokuapp.com/?user=MrAle98&theme=dark&hide_border=true)
 
 In case you would like to support me.
 
